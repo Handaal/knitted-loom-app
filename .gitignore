@@ -33,11 +33,11 @@ android/.idea/
 android/app/release/
 android/app/profile/
 android/app/debug/
-ios/
-macos/
-linux/
-windows/
-web/
+# ios/
+# macos/
+# linux/
+# windows/
+# web/
 
 # Assets that should not be tracked
 *.jar
