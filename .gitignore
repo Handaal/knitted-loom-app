@@ -1,0 +1,52 @@
+# OS-related
+.DS_Store
+*.swp
+
+# Logs and dumps
+*.log
+*.hprof
+
+# Compiled
+*.class
+*.pyc
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Dart/Flutter/Pub
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Platform builds
+android/.gradle/
+android/.idea/
+android/app/release/
+android/app/profile/
+android/app/debug/
+ios/
+macos/
+linux/
+windows/
+web/
+
+# Assets that should not be tracked
+*.jar
+*.mp4
+*.mov
+*.avi
+*.zip
+*.rar
+
+# Symbolication & Obfuscation
+app.*.map.json
+app.*.symbols
